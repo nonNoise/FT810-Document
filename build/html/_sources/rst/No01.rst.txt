@@ -1,0 +1,30 @@
+===================================================
+FT810 基本情報
+===================================================
+
+.. image:: ../img/image2.jpg
+    :scale: 80%
+    :target: https://www.switch-science.com/catalog/5924/
+　
+
+
+
+▫　公式情報
+---------------------------------------------------
+
+★ `FT810 チップドキュメント <https://brtchip.com/wp-content/uploads/Support/Documentation/Datasheets/ICs/EVE/DS_FT81x.pdf>`_
+
+★ `FT810 プログラムドキュメント <https://brtchip.com/wp-content/uploads/Support/Documentation/Programming_Guides/ICs/EVE/FT81X_Series_Programmer_Guide.pdf>`_
+
+▫　購入サイト
+---------------------------------------------------
+
+- `HK-101 FT810液晶付きスターターセット <https://www.switch-science.com/catalog/5924/>`_
+
+- `HK-103 FT810でLCD表示を遊び倒す本 <https://www.switch-science.com/catalog/5926/>`_
+
+
+
+
+
+
